@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SprintingSnail69
 - 👀 I have a Scratch account (SprintingSnail)
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on Classboard
+- 💞️ I’m a devoloper of Classboard
 - 📫 How to reach me: Gmail
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: XD
