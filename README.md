@@ -4,7 +4,7 @@
 -[Classboard](https://hardmathproblems.github.io/ )
 <br>
 -I'm currently learning and improving my knowledge
-of **HTML**, **CSS**, and **C++**.
+of **HTML**, **CSS**, and **JavaScript**.
 <br>
 Contact me on:
 dashingcuddler@gmail.com
