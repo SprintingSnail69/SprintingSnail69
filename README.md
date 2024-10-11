@@ -2,7 +2,8 @@
 
 I'm a **Developer**  and an advocate for building **responsive**, **accessible** and **beautiful** digital experiences for the Internet
 - Open to project collaborations
-- You can reach me through: <a href="[https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dashingcuddler@gmail.com]" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
+- You can reach me through: <a href="mailto:dashingcuddler@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
+
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
  
