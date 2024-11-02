@@ -2,7 +2,7 @@
 
 I'm a **Front End Developer**  
 
-> You can reach me through (Gmail)[mailto:dashingcuddler@gmail.com] <br>
+> You can reach me through [Gmail](mailto:dashingcuddler@gmail.com) <br>
 
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
