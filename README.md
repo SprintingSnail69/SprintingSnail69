@@ -1,8 +1,8 @@
 # Hello there! I'm SprintingSnail69! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-I'm a **Developer**  and an advocate for building **responsive**, **accessible** and **beautiful** digital experiences for the Internet
-- Open to project collaborations
-- You can reach me through: <a href="mailto:dashingcuddler@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
+I'm a **Front End Developer**  
+
+> You can reach me through: <a href="mailto:dashingcuddler@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"</a>
 
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
