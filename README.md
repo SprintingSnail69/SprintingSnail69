@@ -9,10 +9,11 @@ I'm a **Front End Developer!** I make **innovative and quality** stuff for the i
  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
- 1. [Chat Room](https://sprintingsnail69.github.io/chat-room/)
- 2. [CoolSounds](https://sprintingsnail69.github.io/coolsounds/)
- 3. [Classplay](https://useclassplay.github.io/)
- 4. [RandomRizz](https://cobblesteve01.github.io/rizz/)
+ 1. [Mewing Tutorial](https://sprintingsnail69.github.io/mewing-tutorial/)
+ 2. [Chat Room](https://sprintingsnail69.github.io/chat-room/)
+ 3. [CoolSounds](https://sprintingsnail69.github.io/coolsounds/)
+ 4. [Classplay](https://useclassplay.github.io/)
+ 5. [RandomRizz](https://cobblesteve01.github.io/rizz/)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,md,github,vscode,overflow&perline=13)](#)
