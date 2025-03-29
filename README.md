@@ -22,7 +22,7 @@ I'm a **Front End Developer!** I make **innovative and quality** stuff for the i
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
-(https://github-readme-stats.hackclub.dev/api/wakatime?username=724&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+https://github-readme-stats.hackclub.dev/api/wakatime?username=724&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 
 
  [![SprintingSnail69's github stats](https://bad-apple-github-readme.vercel.app/api?username=SprintingSnail69&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
